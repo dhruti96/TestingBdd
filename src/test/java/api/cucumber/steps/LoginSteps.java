@@ -9,6 +9,7 @@ public class LoginSteps {
     @Given("User is on login page")
     public void userIsOnLoginPage() {
         System.out.println("userIsOnLoginPage");
+        System.out.println("Edited from the repo");
     }
 
     @When("User enters the username and password")
