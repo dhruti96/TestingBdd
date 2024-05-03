@@ -14,6 +14,7 @@ public class LoginSteps {
 
     @When("User enters the username and password")
     public void userEntersTheUsernameAndPassword() {
+        System.out.println("Hello world");
         System.out.println("userEntersTheUsernameAndPassword");
     }
 
